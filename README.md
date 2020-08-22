@@ -1,1 +1,1 @@
-# typescript101
+# typescript-googlemap
